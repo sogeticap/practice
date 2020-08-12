@@ -1,3 +1,10 @@
+kitchen recipies:
+
+1) Beans
+2) Pizza
+3) Curry
+
+=======
 kitchen recipies.
 final version done.
 
